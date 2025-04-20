@@ -1,1 +1,1 @@
-# devoir1phython
+Bineta ba STI3/genie logiciel (IPD)
